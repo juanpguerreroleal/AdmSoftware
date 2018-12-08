@@ -1,0 +1,13 @@
+C:\Users\juan_\source\repos\admSoftware\admSoftware\obj\Debug\admSoftware.csprojResolveAssemblyReference.cache
+C:\Users\juan_\source\repos\admSoftware\admSoftware\obj\Debug\admSoftware.Prim.resources
+C:\Users\juan_\source\repos\admSoftware\admSoftware\obj\Debug\admSoftware.Properties.Resources.resources
+C:\Users\juan_\source\repos\admSoftware\admSoftware\obj\Debug\admSoftware.csproj.GenerateResource.cache
+C:\Users\juan_\source\repos\admSoftware\admSoftware\obj\Debug\admSoftware.csproj.CoreCompileInputs.cache
+C:\Users\juan_\source\repos\admSoftware\admSoftware\bin\Debug\admSoftware.exe.config
+C:\Users\juan_\source\repos\admSoftware\admSoftware\bin\Debug\admSoftware.exe
+C:\Users\juan_\source\repos\admSoftware\admSoftware\bin\Debug\admSoftware.pdb
+C:\Users\juan_\source\repos\admSoftware\admSoftware\obj\Debug\admSoftware.exe
+C:\Users\juan_\source\repos\admSoftware\admSoftware\obj\Debug\admSoftware.pdb
+C:\Users\juan_\source\repos\admSoftware\admSoftware\bin\Debug\itextsharp.xml
+C:\Users\juan_\source\repos\admSoftware\admSoftware\obj\Debug\admSoftware.csproj.CopyComplete
+C:\Users\juan_\source\repos\admSoftware\admSoftware\bin\Debug\itextsharp.dll
